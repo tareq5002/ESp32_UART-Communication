@@ -19,3 +19,5 @@ Full-Duplex Communication: Simultaneous transmission and reception of data.
 Interrupt Handling: ESP32 provides robust interrupt-driven UART communication.
 
 DMA Support: UART communication can use DMA (Direct Memory Access) for efficient data transfer without CPU involvement.
+
+<img width="908" height="297" alt="image" src="https://github.com/user-attachments/assets/d821d660-b092-4aab-b3f2-a4cb28c2acaa" />
